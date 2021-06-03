@@ -1,0 +1,304 @@
+stop_id,stop_name,stop_lat,stop_lon,mode,STATE CODE
+2465,1 Aileen Cres ,-41.06177956,145.9019465,train,TA
+2643,1 Atkins Dr ,-41.08106707,145.8974407,train,TA
+2663,100 Inglis St ,-40.98710914,145.7057521,train,TA
+2453,102 Payne St ,-41.07015,145.890912,train,TA
+4219,105 South Rd ,-41.1257563,146.0767357,train,TA
+2617,109 Main Rd ,-41.1151596,146.0753807,train,TA
+2533,11 Dodgin St ,-40.98982517,145.732664,train,TA
+2472,116 Wilson St ,-41.05525446,145.9058318,train,TA
+2590,12 Kentish Dr ,-41.076659,145.884432,train,TA
+2452,120 Payne St ,-41.071717,145.890584,train,TA
+2525,126 View Rd ,-41.05546194,145.8884332,train,TA
+4221,130A South Rd ,-41.15192515,146.1427236,train,TA
+2591,131 Woniora Rd ,-41.07811202,145.885681,train,TA
+4220,133B South Rd ,-41.12761556,146.0806375,train,TA
+2500,14 Grenville St ,-41.06657,145.89738,train,TA
+2726,143 Scenic Dr ,-40.99794554,145.765153,train,TA
+2671,15 Beaufort St ,-41.03779151,145.8239351,train,TA
+4226,16 Rekuna Rd ,-41.11292966,146.0622526,train,TA
+2612,17 Amy St ,-41.147813,146.1516634,train,TA
+2540,17 Grenville St ,-41.06651009,145.8968499,train,TA
+4329,18 Main Rd ,-41.067276,145.928224,train,TA
+2748,18 Main Rd ,-41.06741276,145.9292562,train,TA
+4224,18 Undara Cres ,-41.14293572,146.1503633,train,TA
+2477,1A Edwards St ,-41.05933743,145.909727,train,TA
+2496,2 Old Surrey Rd ,-41.07451004,145.917862,train,TA
+2594,2 Three Mile Line Rd ,-41.08082849,145.8958298,train,TA
+4218,21 Ironcliffe Rd ,-41.11608714,146.0700423,train,TA
+2476,22 Madden St ,-41.07390786,145.8932413,train,TA
+2601,237 Mount St ,-41.07449419,145.9000795,train,TA
+4228,25 Pineleigh St ,-41.1162778,146.0593799,train,TA
+2602,255 Mount St ,-41.07603053,145.8997683,train,TA
+2548,279 Mount St ,-41.08058127,145.8970354,train,TA
+2672,28 Raglan St ,-41.0386268,145.8244577,train,TA
+2745,29 Bass Hwy ,-41.06560556,145.9523972,train,TA
+4233,3 Tingha Way ,-41.1444816,146.1565911,train,TA
+2502,3 Verelle St ,-41.06387369,145.8980125,train,TA
+2522,30 Inglis St ,-40.98952884,145.720391,train,TA
+2467,30 Old Surrey Rd ,-41.07687441,145.918871,train,TA
+2589,31 Wright St ,-41.0754625,145.8830834,train,TA
+2741,318 Old Bass Hwy ,-41.09260524,146.0224573,train,TA
+2541,33 Belton St ,-41.067239,145.894305,train,TA
+2730,35 Martin St ,-40.99469293,145.740875,train,TA
+2501,36 Mark St ,-41.06501429,145.8983701,train,TA
+4330,39 Main Rd ,-41.06787116,145.9345155,train,TA
+2746,39 Main Rd ,-41.06786781,145.9343645,train,TA
+4222,4 Tingha Way ,-41.1444877,146.1566457,train,TA
+2526,41 Halstead St ,-41.05689246,145.8941975,train,TA
+4223,43 Clara St ,-41.14694831,146.1564959,train,TA
+2482,43 South Rd ,-41.119718,146.074248,train,TA
+2593,44 Three Mile Line Rd ,-41.080024,145.889955,train,TA
+4232,46 Clara St ,-41.14701692,146.1564797,train,TA
+2471,47 Payne St ,-41.06533043,145.8910653,train,TA
+2666,48 Inglis St ,-40.98931031,145.7168141,train,TA
+2750,49 Marine Tce ,-41.05946031,145.9104477,train,TA
+2757,5 Jowett St ,-41.15123904,146.1520057,train,TA
+2466,5 The Boulevard ,-41.06146326,145.898165,train,TA
+2468,5 Wattle Ave ,-41.07634976,145.919333,train,TA
+2611,51 - 55 Queen St ,-41.15020602,146.1632849,train,TA
+2637,52 Old Surrey Rd ,-41.07921587,145.9175094,train,TA
+2755,58 Queen St ,-41.15009008,146.1632849,train,TA
+2630,6 Atkins Dr ,-41.08112153,145.8979868,train,TA
+2614,64 Amy St ,-41.141581,146.15136,train,TA
+2613,64 Amy St ,-41.14418145,146.1534049,train,TA
+4227,7 Fielding St ,-41.11412644,146.0612916,train,TA
+4249,7 Jowett St ,-41.15120016,146.1519429,train,TA
+2592,70 Three Mile Line Rd ,-41.079536,145.885789,train,TA
+2759,73 South Rd ,-41.12087333,146.0766828,train,TA
+2749,74 Marine Tce ,-41.06352579,145.9158672,train,TA
+2572,74 Mission Hill Rd ,-41.1144923,146.0580359,train,TA
+2494,84 Payne St ,-41.06833799,145.8907685,train,TA
+2535,85 Bird St ,-41.06064117,145.8962898,train,TA
+2660,85 Inglis St ,-40.987755,145.708745,train,TA
+2656,89 Saunders St ,-40.9829776,145.721991,train,TA
+2524,97 West Park Gr ,-41.05446622,145.8883631,train,TA
+2473,Acton Recreation Reserve - Payne St ,-41.07040927,145.8908638,train,TA
+2571,Amy Str near Upper Maud St ,-41.14796501,146.1516326,train,TA
+2764,Austin St / Wynyard FC ,-40.98734789,145.7214073,train,TA
+2523,Austin St near Goldie St ,-40.99079854,145.7233385,train,TA
+2688,Bass Hwy near East Cam Rd ,-41.03930736,145.8453137,train,TA
+2724,Bass Hwy near McKays Rd ,-41.03100454,145.8103357,train,TA
+2692,Bass Hwy opposite Burnie High School ,-41.039714,145.865593,train,TA
+2728,Bowick St East Wynyard ,-40.99214642,145.7443553,train,TA
+4403,BURNIE CITY TERMINUS ,-41.05234,145.905734,train,TA
+2508,Burnie High School ,-41.04216854,145.8679423,train,TA
+2490,Burnie Interchange Stop A ,-41.05229031,145.9053074,train,TA
+2491,Burnie Interchange Stop B ,-41.05232605,145.9055993,train,TA
+2492,Burnie Interchange Stop C ,-41.0523171,145.9055472,train,TA
+2493,Burnie Interchange Stop D ,-41.05229031,145.9053296,train,TA
+4279,Chasm Creek Bus Stop ,-41.06723162,145.9649282,train,TA
+4248,Chasm Creek Bus Stop ,-41.066911,145.964679,train,TA
+4527,Devonport Interchange ,-41.17721326,146.361157,train,TA
+2732,Dodgin St before Saunders St #44 ,-40.99184169,145.7260777,train,TA
+4400:01:00,East Cam Rd ,-41.05735029,145.8533492,train,TA
+4540,East Cam School Stop Only ,-41.0608,145.860585,train,TA
+2657,Gibbons St cnr Bridge St ,-40.982458,145.720612,train,TA
+2659,Hales St opp Hales Crt ,-40.98632685,145.7119831,train,TA
+2743,Heybridge Bus Stop ,-41.07699151,145.9886533,train,TA
+4528,Hutchinson St (School Stop) ,-41.073685,145.87962,train,TA
+2573,Ironcliffe Rd near Crescent St ,-41.113598,146.070908,train,TA
+2544,Jackson St (Wynyard) ,-40.98969245,145.7284127,train,TA
+2733,Jackson St (Wynyard) ,-40.98975149,145.7284451,train,TA
+4225,King Edward St ,-41.1160253,146.0739238,train,TA
+2729,Lockett St / Petunia St ,-40.99355221,145.7432583,train,TA
+4000,Mackenzie Dr (West Somerset) ,-41.03578987,145.8192821,train,TA
+4093,Marist Junior School (Inside Grounds) ,-41.05001195,145.8867183,train,TA
+2646,Marriott St - Havenview Primary School ,-41.08315883,145.9119754,train,TA
+2756,Maud St near Dooley St ,-41.14923083,146.1605579,train,TA
+4231,Maud St near Dooley St ,-41.14920249,146.1602842,train,TA
+4526,Mersey Community Hospital ,-41.22941913,146.4214412,train,TA
+4002,Mission Hill Rd near Deviation Rd ,-41.1158282,146.0559532,train,TA
+2642,Mount St near Singline Ave ,-41.08570414,145.8925289,train,TA
+4217,No.10 Wattle Ave ,-41.07693398,145.9216003,train,TA
+2531,No.15 Tattersall St (School Stop) ,-41.05928133,145.8957702,train,TA
+2588,No.17 Wright St ,-41.07344792,145.8841461,train,TA
+2754,No.18 Hobbs Pde ,-41.15479602,146.1649102,train,TA
+4530,No.2 Barnard Cr (School Stop) ,-41.075492,145.879002,train,TA
+2610,No.4 Grove St ,-41.15890549,146.1682344,train,TA
+2499,No.40 Grenville St ,-41.066231,145.894714,train,TA
+4529,No.48 Barnard Cr (School Stop) ,-41.077169,145.879601,train,TA
+4230,No.5 Hobbs Pde ,-41.15488362,146.1650197,train,TA
+2626,No.54 Mount Street ,-41.05291314,145.9048811,train,TA
+2700,No.7 Wilmot Street ,-41.049871,145.904052,train,TA
+2616,North West Regional Hospital ,-41.04698005,145.8810065,train,TA
+2727,Old Bass Hwy opp Rotary Park ,-40.99175327,145.7476541,train,TA
+2640,Old Surrey Rd ,-41.08882914,145.9076915,train,TA
+2474,Opposite 120 Payne St ,-41.0716934,145.8905767,train,TA
+2641,Opposite 216 Old Surrey Rd ,-41.09035498,145.9028459,train,TA
+2693,Opposite 221 Bass Hwy ,-41.04034291,145.8716988,train,TA
+2691,Opposite 227 Bass Hwy ,-41.039844,145.859964,train,TA
+2731,Opposite 30 Martin St ,-40.99297738,145.7400306,train,TA
+2690,Opposite 303 Bass Hwy ,-41.03972839,145.8566705,train,TA
+2689,Opposite 335 Bass Hwy ,-41.04089224,145.8524058,train,TA
+2765,Opposite 4 Bass Hwy ,-41.0663586,145.9444436,train,TA
+2550,Opposite 44 Three Mile Line Rd ,-41.08006075,145.8902971,train,TA
+2762,Opposite 53 Marine Tce ,-41.060421,145.911844,train,TA
+2761,Opposite 72 Marine Tce ,-41.063168,145.915572,train,TA
+4091,Parklands High School (Inside Grounds) ,-41.08103343,145.9008629,train,TA
+2618,Preservation Bay Rd near Hogarth Rd ,-41.09103771,146.0180781,train,TA
+2742,Preservation Dr near Hogarth Rd ,-41.09056745,146.0171363,train,TA
+2739,Preservation Dr near Johnsons Beach - Inwards ,-41.10790166,146.0675871,train,TA
+2621,Preservation Dr near Johnsons Beach - Outwards ,-41.10797123,146.0676931,train,TA
+2619,Preservation Dr near Overall St ,-41.09271845,146.0231333,train,TA
+4324,Romaine Park Primary School ,-41.077282,145.901611,train,TA
+4090,Stella Maris Primary School (Inside Grounds) ,-41.05137938,145.8874451,train,TA
+2542,Stop 1  Edwards St near Strahan St,-41.05966197,145.9092464,train,TA
+2464,Stop 1  No.2 Aileen Cres,-41.06176,145.901946,train,TA
+2699,Stop 1  No.2 Bass Hwy,-41.047016,145.90054,train,TA
+2701,Stop 1  No.27 North Terrace,-41.04855943,145.9031699,train,TA
+2581,Stop 10  Moorville Rd (Hellyer College),-41.06072,145.880927,train,TA
+2563,Stop 10  Moorville Rd (Hellyer College),-41.0609,145.880772,train,TA
+2627,Stop 10  No.17 Blackwood Pde,-41.07996491,145.9062115,train,TA
+2710,Stop 10  No.271 Bass Hwy,-41.03996682,145.8609639,train,TA
+2512,Stop 10  No.53 View Road,-41.05466932,145.8962987,train,TA
+2740,Stop 11 Preservation Dr ,-41.09550517,146.0299797,train,TA
+2620,Stop 11 Preservation Dr ,-41.09577078,146.0304188,train,TA
+2562,Stop 11  Mooreville Rd near Ace Ave,-41.0623876,145.8801973,train,TA
+2511,Stop 11  No.20 Halstead St,-41.05661835,145.8945806,train,TA
+2711,Stop 11  No.297 Bass Hwy,-41.03979191,145.8575477,train,TA
+2628,Stop 11  No.3 Manuka Dr,-41.08078446,145.9048261,train,TA
+2561,Stop 12  Mooreville Rd near Malonga Dr,-41.06387468,145.8796539,train,TA
+8644,Stop 12  No.26 Manuka Dr,-41.08242347,145.9037135,train,TA
+2644,Stop 12  No.26 Manuka Dr,-41.08242347,145.9037135,train,TA
+2712,Stop 12  No.317 Bass Hwy,-41.04095613,145.8534183,train,TA
+2527,Stop 12  No.40 Jorgensen Street,-41.05750291,145.8950265,train,TA
+2582,Stop 12  No.45 Mooreville Rd,-41.06354211,145.8797612,train,TA
+8629,Stop 13  45 Manuka Dr,-41.0838093,145.9001061,train,TA
+2629,Stop 13  45 Manuka Dr,-41.0838093,145.9001061,train,TA
+2560,Stop 13  No.110 Mooreville Rd,-41.06933393,145.8786455,train,TA
+2583,Stop 13  No.113 Mooreville Rd,-41.06969765,145.8785813,train,TA
+2528,Stop 13  No.18 Jorgensen Street,-41.056476,145.896325,train,TA
+2713,Stop 13  No.365 Bass Hwy,-41.04037308,145.8495282,train,TA
+2510,Stop 13  opp.No.26 Jorgensen St,-41.05682768,145.8958936,train,TA
+2687,Stop 14  Bass Hwy,-41.0393412,145.8347395,train,TA
+2714,Stop 14  Bass Hwy near East Cam Rd,-41.03933487,145.8435287,train,TA
+2529,Stop 14  Morrison St near Mace St,-41.05695865,145.897777,train,TA
+2584,Stop 14  No.44 Wiseman St,-41.07165883,145.8795966,train,TA
+2738,Stop 14  No.66 South Rd,-41.120837,146.076689,train,TA
+2559,Stop 14  Wiseman St,-41.07168352,145.8794432,train,TA
+2686,Stop 15  Falmouth St,-41.04008791,145.8338044,train,TA
+2530,Stop 15  Morrison St near Bird St,-41.057897,145.899128,train,TA
+2631,Stop 15  Mount St / Singline Ave,-41.08543379,145.8926748,train,TA
+2715,Stop 15  No.20 Falmouth St,-41.03992577,145.8338371,train,TA
+2489,Stop 16  Bird St (Montello PS),-41.05956594,145.8975234,train,TA
+2586,Stop 16  No.22 Wiseman St,-41.07143641,145.8833968,train,TA
+2716,Stop 16  No.32 Falmouth St,-41.04155248,145.8334768,train,TA
+2685,Stop 16  No.33 Simpson St,-41.041158,145.832836,train,TA
+2507,Stop 16  No.52 Bird St,-41.05871448,145.8985721,train,TA
+2557,Stop 16  opp.No.22 Wiseman St,-41.07141732,145.8831943,train,TA
+2506,Stop 17  No.80 Bird St,-41.06045983,145.8965012,train,TA
+2480,Stop 17  No.96 Main Rd,-41.1149844,146.0749703,train,TA
+2684,Stop 17  Wragg St,-41.04076644,145.8316157,train,TA
+2505,Stop 18  No.102 Bird St,-41.06165075,145.8950831,train,TA
+2639,Stop 18  No.145 Old Surrey Rd,-41.08695734,145.9102996,train,TA
+2683,Stop 18  No.34 Wragg St,-41.03919399,145.8296283,train,TA
+2717,Stop 18  No.59 Wragg St,-41.03929324,145.8297358,train,TA
+2555,Stop 18  No.8 Wright St,-41.072281,145.885141,train,TA
+2632,Stop 19  Havenview Primary School,-41.08406668,145.9122614,train,TA
+2638,Stop 19  Havenview Primary School,-41.08418055,145.9121823,train,TA
+2682,Stop 19  No.17 George St,-41.041218,145.828671,train,TA
+2461,Stop 19  No.34 Terrylands St,-41.06146971,145.8934173,train,TA
+2702,Stop 2  Bass Hwy (Burnie Park),-41.0467161,145.8975938,train,TA
+2463,Stop 2  No.5 The Boulevard,-41.06158141,145.898055,train,TA
+2681,Stop 20  No.1 Cardigan St,-41.04497138,145.8274955,train,TA
+2718,Stop 20  No.38 Cardigan St,-41.04491569,145.8270867,train,TA
+2458,Stop 20  No.44 Payne St,-41.06451065,145.8912713,train,TA
+2554,Stop 20  Wright St opp.Lorymer Pl,-41.07442636,145.8836425,train,TA
+2553,Stop 21  No.27 Kentish Dr,-41.07673629,145.8831514,train,TA
+2719,Stop 21  No.56 Cardigan St,-41.04462054,145.8248922,train,TA
+2635,Stop 22  No.27 McPhee St,-41.079638,145.914856,train,TA
+2720,Stop 22  No.49 Lyons St,-41.043178,145.821056,train,TA
+2680,Stop 22  No.68 Lyons St,-41.04304513,145.8210695,train,TA
+2634,Stop 23  No.51 McPhee St,-41.08119305,145.9132785,train,TA
+2679,Stop 23  No.65 Pelissier St,-41.04188324,145.8211439,train,TA
+2497,Stop 24  No.150 Payne St,-41.07470066,145.8898188,train,TA
+2633,Stop 24  No.69 McPhee St,-41.082569,145.912153,train,TA
+2678,Stop 24  No.85 Pelissier St (School Stop),-41.04160401,145.8189916,train,TA
+2677,Stop 25  No.122 Pelissier St (School Stop),-41.04207225,145.8147822,train,TA
+2475,Stop 25  No.2 Griffith St,-41.07539858,145.8928602,train,TA
+2498,Stop 25  No.5 Griffith St,-41.07537592,145.8928045,train,TA
+2676,Stop 26  No.33 Flinders Dr (School Stop),-41.04306083,145.8152855,train,TA
+2595,Stop 26  No.356 Mount St,-41.080005,145.897707,train,TA
+2450,Stop 26  No.63 Madden St,-41.07391287,145.8932524,train,TA
+2547,Stop 27  Mount St (Parklands HS),-41.07828042,145.89931,train,TA
+2596,Stop 27  Mount St (Parklands HS),-41.078333,145.89925,train,TA
+2449,Stop 27  No.41 Thorne St,-41.07326007,145.8940253,train,TA
+2675,Stop 27  No.7 Flinders Dr (School Stop),-41.04215338,145.8171113,train,TA
+2448,Stop 28  No.1/25 Thorne St,-41.07353729,145.8961942,train,TA
+2647,Stop 28  No.304 Mount St,-41.07594192,145.899789,train,TA
+2721,Stop 28  No.61 Pelissier St,-41.04208579,145.8226516,train,TA
+2674,Stop 28  No.68 Pelissier St,-41.04212856,145.8229839,train,TA
+2598,Stop 29  No.2 Thorne St,-41.07379846,145.8984621,train,TA
+2609,Stop 29  No.288 Mount St,-41.07471214,145.9000277,train,TA
+2543,Stop 29  No.3 Thorne St,-41.0738204,145.8984591,train,TA
+2722,Stop 29  No.33 Raglan St,-41.040106,145.8241337,train,TA
+2673,Stop 29  Raglan St (near Simpson St),-41.04030677,145.8240955,train,TA
+2478,Stop 3  No.1 Brooklyn Rd,-41.06721896,145.9083157,train,TA
+2703,Stop 3  No.15 Bass Hwy,-41.04612043,145.8939059,train,TA
+2574,Stop 3  No.55 West Park Gr,-41.05102698,145.8926078,train,TA
+2538,Stop 3  No.6 Verelle St,-41.06388828,145.8981353,train,TA
+2519,Stop 3  West Park Grove near Burnie Park,-41.051007,145.892621,train,TA
+2698,Stop 3  West Park Oval,-41.046457,145.89646,train,TA
+2723,Stop 30  No.17 Raglan St,-41.03829102,145.8245277,train,TA
+2599,Stop 30  No.264 Mount St,-41.07229348,145.900529,train,TA
+2650,Stop 31  216 Mount St,-41.06982593,145.9010572,train,TA
+2623,Stop 31  No.197 Mount Street,-41.06994578,145.9010212,train,TA
+2600,Stop 31  No.215 Mount St,-41.07210642,145.9005771,train,TA
+2651,Stop 32  204A Mount St,-41.067985,145.901386,train,TA
+2622,Stop 32  No.171 Mount St,-41.06777565,145.9014685,train,TA
+2669,Stop 33  Mackenzie Dr (West Somerset),-41.03593899,145.8192498,train,TA
+2725,Stop 35  Seabrook Golf Club,-41.00610222,145.7782353,train,TA
+3999,Stop 35  Seabrook Golf Club,-41.00613625,145.7783333,train,TA
+2608,Stop 4  Cnr Exhibition St and Collins St,-41.07195107,145.9088348,train,TA
+2575,Stop 4  No.1 Futuna Ave,-41.05261191,145.8904072,train,TA
+2569,Stop 4  No.2 Futuna Ave,-41.052688,145.890543,train,TA
+2479,Stop 4  No.31 Collins St,-41.07128366,145.909131,train,TA
+2518,Stop 4  No.48 West Park Gr,-41.05402351,145.8889951,train,TA
+2539,Stop 4  No.49 Mark St,-41.06487949,145.8984068,train,TA
+2704,Stop 4  No.51 Bass Hwy,-41.04504134,145.8904124,train,TA
+2697,Stop 4  opp.No.45 Bass Hwy,-41.044895,145.891242,train,TA
+2696,Stop 5  Bass Hwy (opp.Button Ave),-41.044708,145.884542,train,TA
+2705,Stop 5  Bass Hwy near Toorak Ct,-41.04432424,145.8837172,train,TA
+2483,Stop 5  No.1 Wembley St,-41.07165047,145.9075267,train,TA
+2517,Stop 5  No.125 View Rd,-41.0554444,145.8883236,train,TA
+2568,Stop 5  No.20 Futuna Ave,-41.05168431,145.8878848,train,TA
+2576,Stop 5  No.21 Futuna Ave,-41.05171235,145.8879914,train,TA
+2606,Stop 5  No.6 Exhibition St,-41.07184825,145.9079414,train,TA
+2520,Stop 50  York St,-40.98333212,145.702246,train,TA
+2658,Stop 53  Gibbons St,-40.98476858,145.7133451,train,TA
+2706,Stop 6  No.127 Bass Hwy,-41.04309395,145.8806734,train,TA
+2605,Stop 6  No.6 Flinders St,-41.07257571,145.9051659,train,TA
+2516,Stop 6  No.79 Grandview Ave,-41.05453919,145.8932377,train,TA
+2567,Stop 6  No.86 Brickport Road,-41.05129563,145.8844662,train,TA
+2577,Stop 6  No.93 Brickport Rd,-41.05158829,145.8843711,train,TA
+2695,Stop 6  opp.No.143 Bass Hwy,-41.0423561,145.8791481,train,TA
+2694,Stop 7  Bass Hwy (Cooee Shops),-41.04075993,145.8750184,train,TA
+2566,Stop 7  No.110 Brickport Road,-41.0536943,145.8836443,train,TA
+2578,Stop 7  No.123 Brickport Rd,-41.05382055,145.8836101,train,TA
+2604,Stop 7  No.18 Flinders St,-41.07362192,145.9044294,train,TA
+2707,Stop 7  No.189 Bass Hwy (Cooee Shops),-41.04069797,145.8746444,train,TA
+2534,Stop 7  No.36 Belton St,-41.06689617,145.8940297,train,TA
+2515,Stop 7  No.53 Grandview Ave,-41.05376128,145.8947532,train,TA
+2603,Stop 8  No.101 Collins St,-41.07496118,145.9059707,train,TA
+2565,Stop 8  No.132 Brickport Road,-41.05581466,145.8828376,train,TA
+2579,Stop 8  No.147 Brickport Rd,-41.05570849,145.8828871,train,TA
+2607,Stop 8  No.16 Roslyn Ave,-41.07672558,145.9036778,train,TA
+2708,Stop 8  No.235 Bass Hwy,-41.04030105,145.8698526,train,TA
+2514,Stop 8  No.25 Grandview Ave,-41.05211493,145.8967488,train,TA
+2488,Stop 8  No.86 Collins St,-41.074969,145.906062,train,TA
+2709,Stop 9  Bass Hwy (Burnie High School),-41.03975805,145.8661357,train,TA
+2513,Stop 9  No.14 Elizabeth Street,-41.05343597,145.8975516,train,TA
+2645,Stop 9  No.2 Blackwood Pde,-41.07748288,145.9056503,train,TA
+2564,Stop 9  UTAS Cradle Coast Campus,-41.05765207,145.8820647,train,TA
+2580,Stop 9  UTAS Cradle Coast Campus,-41.057686,145.882107,train,TA
+2549,Three Mile Line Rd near Greenacre St ,-41.08076463,145.8954441,train,TA
+2753,Ulverstone Interchange ,-41.158239,146.171729,train,TA
+8564:01:00,UNIVERSITY TERMINUS ,-41.05765207,145.8820647,train,TA
+4092,Van Diemens Cres - Burnie Primary School ,-41.05819387,145.8841882,train,TA
+4258,Wellington St / Hopkinson St ,-41.06246551,145.9100367,train,TA
+4541,West Mooreville School Stop Only ,-41.106456,145.8361,train,TA
+2551,Woniora Rd near Rouse Pl ,-41.079076,145.885398,train,TA
+2552,Woniora Rd near Stammers Pl ,-41.0773146,145.8858606,train,TA
+4554,Burnie Interchange ,-41.052305,145.905299,train,TA
+, ,,,,
